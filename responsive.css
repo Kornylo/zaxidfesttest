@@ -1,0 +1,532 @@
+ /*Desktop responsive layouts START*/
+
+ @media (min-width: 1024px) and (max-width: 1280px) {
+
+  .container {
+    max-width: 540px;
+    margin: 0 auto 0 71px;
+  }
+  .logoZaxid ,.logoZaxidVisitor, .logoZaxidProgram{
+    width:71px;
+  }
+  .logoZaxid img, .logoZaxidVisitor img, .logoZaxidProgram img{
+    width: 37px;
+  }
+  ul.navigation{
+    width: 510px;
+  }
+  .navigation li a {
+    font-size: 13px;
+  }
+  .navigation li {
+   margin: 0 0 0 2px;
+   padding: 16px 0;
+ }
+
+ .contactText{
+  font-size: 10px;
+  line-height: 13px;
+  
+}
+#contactBuy{
+  height: 29px;
+  margin-right: 10%;
+  font-size: 17px;
+}
+.contactForm h3{
+  font-size: 10px;
+}
+.menuInfor li a {
+  padding: 0 10px;
+}
+#containerGrup{
+
+  margin: 0 auto 0 80px;
+}
+.sliderGrup{
+  width: 50%;
+}
+
+h1.grupName{
+  width: 527px;
+}
+.photos_container{
+  float: left;
+}
+.programCalendar{
+  height: 750px;
+  top: -20px;
+  padding-bottom:5px;
+}
+
+.programCalendar:nth-child(2){
+  width: 143px;
+  left: 266px;
+
+}
+.programCalendar:nth-child(3){
+  width: 143px;
+  left: 420px;
+}
+.programCalendar:nth-child(4){
+  width: 143px;
+  left: 575px;
+}
+.programCalendar:nth-child(5){
+  width: 168px;
+}
+.verticalRow {
+  height: 154px;
+  font-size: 15px;
+}
+.programCalendarBlock{
+ height: 144px;
+
+}
+.programCalendar p{
+ font-size: 7px;
+
+}
+.programTime{
+ font-size: 7px;
+ 
+}
+.programScen{
+ font-size: 15px;  
+}
+.programGreyText{
+ font-size: 12px;
+}
+.programCalendarBlockText {
+ padding-left: 58px;
+
+}
+.programCalendarBlockTextF {
+ padding-left: 82px;
+
+}
+
+}
+@media (min-width: 1280px) and (max-width: 1920px) {
+  .container {
+    max-width: 675px;
+    margin: 0 auto 0 90px;
+  }
+  .logoZaxid, .logoZaxidVisitor, .logoZaxidProgram{
+    width:90px;
+  }
+  .logoZaxid img, .logoZaxidVisitor img, .logoZaxidProgram img{
+    width: 46px;
+  }
+  ul.navigation{
+    width: 637px;
+  }
+  .navigation li a {
+    font-size: 15px;
+  }
+  .navigation li {
+    margin: 0 0 0 21px;
+    padding: 24px 0;
+  }
+
+  .contactText{
+    font-size: 12px;
+    line-height: 18px;
+  }
+  #contactBuy{
+    height: 35px;
+    font-size: 21px;
+    margin-right: 7%;
+  }
+  .sendForm input:nth-child(3) {
+    width: 80%;
+  }
+  .contactForm h3{
+    font-size: 13px;
+  }
+  .menuInfor li a {
+    padding: 0 32px;
+  }
+  .sliderGrup {
+    width: 52%;
+  }
+
+  h1.grupName{
+    width: 671px;
+  }
+  p.grupText {
+    font-size: 16px;
+    width: 685px;
+  }
+  .p_target{
+   top: 183px;
+ }
+ .p_title{
+  top: 89px;
+}
+.isotope .element-item span{
+  font-size: 15px;
+}
+h2.grupTime{
+  top: 74px;
+}
+h3.grupPlase{
+  top: 74px;
+}
+h3.gropLocalСountry{
+  top: 74px;
+}
+.activeGrup .gripHover{
+  font-size: 30.5px;
+}
+.grupClose{
+  margin-right: 45px;
+}
+.handGrup img{
+  height: 84%;
+}
+#containerGrup{
+  margin: 0 auto 0 81px;
+}
+.activeGrup h1{
+  margin-top: -38% !important;
+}
+
+.programCalendar{
+  height: 750px;
+  top: 10px;
+}
+
+.programCalendar:nth-child(2){
+  width: 184px;
+  left: 325px;
+
+}
+.programCalendar:nth-child(3){
+  width: 184px;
+  left: 519px;
+}
+.programCalendar:nth-child(4){
+  width: 184px;
+  left: 715px;
+}
+.programCalendar:nth-child(5){
+  width: 205px;
+
+}
+.verticalRow {
+  height: 170px;
+  font-size: 15px;
+}
+.programCalendarBlock{
+ height: 160px;
+
+}
+
+.programCalendar p{
+ font-size: 10px;
+
+}
+.programTime{
+ font-size: 9px;
+ 
+}
+.programScen{
+ font-size: 18px;  
+}
+.programGreyText{
+ font-size: 12px;
+}
+.programCalendarBlockText {
+ padding-left: 70px;
+
+}
+.programCalendarBlockTextF {
+ padding-left: 94px;
+
+}
+
+}
+@media (min-width: 1920px) and (max-width: 2048px) {
+  .container {
+    max-width: 1010px;
+    margin: 0 auto 0 135px;
+  }
+  .logoZaxid, .logoZaxidVisitor, .logoZaxidProgram{
+    width:135px;
+  }
+   .logoZaxid img, .logoZaxidVisitor img, .logoZaxidProgram img{
+    width: 71px;
+  }
+  ul.navigation{
+    width: 970px;
+  }
+  .navigation li a {
+    font-size: 25px;
+  }
+  .navigation li {
+    margin: 0 0 0 21px;
+    padding: 40px 0;
+  }
+  .navigation li a.activeV::after, .navigation li a.activeV:hover::after {
+
+    top: -39px;
+
+  }
+  .navigation li a.activeP::after, .navigation li a.activeP:hover::after {
+
+    top: -39px;
+
+  }
+  .contactText{
+    font-size: 20px;
+    line-height: 23px;
+    font-size: 12px;
+  }
+  #contactBuy{
+    height: 54px;
+    font-size: 33px;
+  }
+  .sendForm input:nth-child(3) {
+    width: 88%;
+  }
+  .contactForm h3{
+    font-size: 19px
+  }
+  .menuInfor li a {
+    padding: 0 84px;
+    padding-left: 22px;
+    padding-right: 145px;
+  }
+  .sliderGrup{
+    width: 45%;
+  }
+  h1.grupName{
+    width: 603px;
+  }
+  h2.grupTime{
+    top: 52px;
+  }
+  h3.grupPlase{
+    top: 74px;
+  }
+  h3.gropLocalСountry{
+    top: 74px;
+  }
+  .grupClose{
+    margin-right: 45px;
+  }
+  
+  .programCalendar{
+    height: 750px;
+    top: 40px;
+  }
+
+  .programCalendar:nth-child(2){
+    width: 282px;
+    left: 480px;
+
+  }
+  .programCalendar:nth-child(3){
+    width: 282px;
+    left: 775px;
+  }
+  .programCalendar:nth-child(4){
+    width: 282px;
+    left: 1070px;
+  }
+  .programCalendar:nth-child(5){
+    width: 306px;
+  }
+  .verticalRow {
+    height: 250px;
+    font-size: 24px;
+  }
+  .programCalendarBlock{
+   height: 240px;
+
+
+ }
+ .programCalendar p{
+   font-size: 14px;
+   padding-top: 5px;
+ }
+ .programTime{
+   font-size: 13px;
+   /*padding-top: 4px;*/
+
+ }
+ .programScen{
+   font-size: 24px;  
+ }
+ .programGreyText{
+   font-size: 17px;
+ }
+ .programCalendarBlockText {
+   padding-left: 107px;
+
+ }
+ .programCalendarBlockTextF {
+   padding-left: 130px;
+
+ }
+
+}
+
+
+@media (min-width: 2048px)  {
+  .container {
+    max-width: 1075px;
+    margin: 0 auto 0 144px;
+  }
+  .logoZaxid, .logoZaxidVisitor, .logoZaxidProgram{
+    width:144px;
+  }
+  .logoZaxid img, .logoZaxidVisitor img, .logoZaxidProgram img{
+    width: 71px;
+  }
+  ul.navigation{
+    width: 1035px;
+  }
+  .navigation li a {
+    font-size: 28px;
+  }
+  .navigation li {
+   margin: 0 0 0 12px;
+   padding: 40px 0;
+ }
+
+ .contactText{
+  font-size: 25px;
+  line-height: 28px;
+  font-size: 12px;
+}
+#contactBuy{
+  height: 57px;
+  font-size: 35px;
+}
+.sendForm input:nth-child(3) {
+  width: 87%;
+}
+.contactForm h3{
+  font-size: 21px;
+}
+.menuInfor li a {
+  padding: 0 82px;
+}
+.sliderGrup{
+  width: 50%;
+}
+
+h1.grupName{
+  width: 1128px;
+  font-size: 50px;
+  top: 22px;
+  line-height: 38px;
+}
+.p_title{
+  top: 100px;
+}
+.isotope .element-item span{
+  font-size: 23px;
+}
+.p_target{
+  top: 198px;
+}
+.element-item .overlay h1{
+  margin-top: 0%;
+}
+p.grupText{
+  font-size: 30px;
+  width: 1141px;
+}
+h2.grupTime{
+  font-size: 31px;
+  top: 72px;
+}
+
+h3.grupPlase{
+  font-size: 20px;
+  top: 71px;
+}
+h3.gropLocalСountry{
+  font-size: 20px;
+  top: 71px;
+}
+p.gripHover{
+  font-size: 29px;
+}
+.activeGrup .gripHover{
+  font-size: 48px;
+  line-height: 39px;
+}
+p.grupCountryHover{
+  font-size: 28px;
+}
+.grupPlacesHover{
+  font-size: 28px;
+  top: -17px;
+}
+p.grupTimeHover{
+ font-size: 29px;
+ top: -15px!important;
+}
+.activeGrup h1{
+  margin-top: -38%;
+}
+.element-item .overlay{
+  height: 98%;
+}
+.grupClose{
+  margin-right: 45px;
+}
+
+.programCalendar{
+  height: 750px;
+  width: 290px;
+  top: 40px;
+}
+
+.programCalendar:nth-child(2){
+  width: 275px;
+  left: 465px;
+
+}
+.programCalendar:nth-child(3){
+  width: 275px;
+  left: 755px;
+}
+.programCalendar:nth-child(4){
+  width: 275px;
+  left: 1045px;
+
+}
+.verticalRow {
+  height: 225px;
+  font-size: 17px;
+}
+.programCalendarBlock{
+ height: 225px;
+ 
+}
+.programCalendar p{
+ font-size: 18px;
+ padding-top: 10px;
+}
+.programTime{
+ font-size: 15px;
+ padding-top: 9px;
+ 
+}
+.programScen{
+ font-size: 23px;  
+}
+.programGreyText{
+ font-size: 17px;
+}
+.programCalendarBlockText{
+ padding-left: 50%;
+
+}
+}
+   /*Desktop responsive layouts END*/

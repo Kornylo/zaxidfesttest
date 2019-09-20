@@ -1,0 +1,708 @@
+ /*Desktop responsive layouts START*/
+
+ @media (min-width: 1024px) and (max-width: 1280px) {
+
+.handGrup img {
+  width: 50%;
+  
+    top: 140px;
+}
+
+  .container {
+    max-width: 540px;
+    margin: 0 auto 0 71px;
+  }
+  .logoZaxid ,.logoZaxidVisitor,.logoZaxidGrup,.logoZaxidGalery{
+    width:71px;
+  }
+  ul.navigation{
+    width: 510px;
+  }
+  .navigation li a {
+    font-size: 13px;
+  }
+  .navigation li {
+   margin: 0 0 0 2px;
+   padding: 24px 0;
+ }
+
+.contactText{
+  font-size: 10px;
+  line-height: 13px;
+}
+#contactBuy{
+  height: 29px;
+  margin-right: 10%;
+  font-size: 17px;
+}
+.contactForm h3{
+  font-size: 10px;
+}
+.menuInfor li a {
+      padding: 0 8px;
+  }
+  #containerGrup{
+
+margin: 0 auto 0 73px;
+}
+
+.logoZaxidGrup img {
+margin: 25px 21px;
+width: 46px;
+
+}
+.sliderGrup{
+  width: 50%;
+}
+
+h1.grupName{
+width: 527px;
+}
+.photos_container{
+  float: left;
+}
+.grupClose{
+  top: 13px;
+}
+.wrap_slider{
+ margin-top: 107px;
+}
+.album_sliders_container{
+  padding: 0 24px;
+}
+.grupMedia{
+top: 536px;
+}
+p.grupText{
+  width: 537px;
+}
+.grupVideo iframe{
+  width: 534px;
+height: 300px;
+}
+
+
+
+}
+@media (min-width: 1280px) and (max-width: 1920px) {
+  .container {
+    max-width: 675px;
+    margin: 0 auto 0 90px;
+  }
+  .logoZaxid, .logoZaxidVisitor,.logoZaxidGrup,.logoZaxidGalery{
+    width:90px;
+  }
+  ul.navigation{
+    width: 637px;
+  }
+
+  .navigation li a {
+    font-size: 15px;
+  }
+  .navigation li {
+    margin: 0 0 0 21px;
+    padding: 24px 0;
+  }
+
+  .contactText{
+    font-size: 12px;
+    line-height: 18px;
+  }
+  #contactBuy{
+    height: 35px;
+    font-size: 21px;
+    margin-right: 7%;
+  }
+  .sendForm input:nth-child(3) {
+    width: 80%;
+  }
+  .contactForm h3{
+    font-size: 13px;
+  }
+  .menuInfor li a {
+      padding: 0 25px;
+  }
+  .sliderGrup {
+    width: 52%;
+}
+
+h1.grupName{
+width: 545px;
+}
+p.grupText {
+
+    font-size: 16px;
+width: 555px;
+}
+.p_target{
+ top: 183px;
+}
+.p_title{
+top: 89px;
+}
+.isotope .element-item span{
+  font-size: 15px;
+}
+h2.grupTime{
+top: 74px;
+}
+h3.grupPlase{
+top: 74px;
+}
+h3.gropLocalСountry{
+  top: 74px;
+}
+.activeGrup .gripHover{
+  font-size: 30.5px;
+}
+.grupClose{
+  margin-right: 45px;
+}
+.handGrup img{
+width: 41%;
+}
+#containerGrup{
+margin: 0 auto 0  135px;;
+}
+.activeGrup h1{
+
+margin-top: -38% !important;
+
+}
+.burgerNav{
+  display: none;
+}
+
+}
+@media (min-width: 1920px) and (max-width: 2048px) {
+  .container {
+    max-width: 1010px;
+    margin: 0 auto 0 135px;
+  }
+  .logoZaxid, .logoZaxidVisitor,.logoZaxidGrup,.logoZaxidGalery{
+    width:135px;
+  }
+  ul.navigation{
+    width: 970px;
+  }
+  .navigation li a {
+    font-size: 25px;
+  }
+  .navigation li {
+    margin: 0 0 0 21px;
+    padding: 39px 0;
+  }
+ .navigation li.activeGripNav a::after {
+
+    top: -38px;
+
+}
+.navigation li.activeGdlNav a::after{
+
+    top: -38px;
+
+}
+
+  .contactText{
+    font-size: 20px;
+    line-height: 23px;
+  }
+  #contactBuy{
+    height: 54px;
+
+    font-size: 33px;
+  }
+  .sendForm input:nth-child(3) {
+    width: 88%;
+  }
+  .contactForm h3{
+    font-size: 19px
+  }
+  .menuInfor li a {
+      padding: 0 82px;
+  }
+.sliderGrup{
+  width: 45%;
+}
+
+h1.grupName{
+ width: 544px;
+}
+h2.grupTime{
+  top: 52px;
+}
+h3.grupPlase{
+    top: 74px;
+}
+h3.gropLocalСountry{
+      top: 74px;
+}
+.grupClose{
+margin-right: 76px;
+}
+.logoZaxidGalery img{
+  margin: 25px 35px;
+}
+.burgerNav{
+  display: none;
+}
+
+}
+@media (min-width: 2048px)  {
+  .container {
+    max-width: 1075px;
+    margin: 0 auto 0 144px;
+  }
+  .logoZaxid, .logoZaxidVisitor,.logoZaxidGrup,.logoZaxidGalery{
+    width:144px;
+  }
+  ul.navigation{
+    width: 1035px;
+  }
+  .navigation li a {
+    font-size: 28px;
+  }
+  .navigation li {
+   margin: 0 0 0 12px;
+ padding: 39px 0;
+ }
+
+.contactText{
+  font-size: 25px;
+  line-height: 28px;
+}
+#contactBuy{
+  height: 57px;
+  font-size: 35px;
+}
+.sendForm input:nth-child(3) {
+  width: 87%;
+}
+.contactForm h3{
+  font-size: 21px;
+}
+.menuInfor li a {
+      padding: 0 82px;
+  }
+.sliderGrup{
+width: 50%;
+}
+
+h1.grupName{
+width: 606px;
+font-size: 30px;
+top: 2px;
+line-height: 31px;
+}
+.p_title{
+top: 102px;
+}
+.isotope .element-item span{
+  font-size: 23px;
+}
+.p_target{
+top: 202px;
+}
+.element-item .overlay h1{
+  margin-top: 0%;
+}
+p.grupText{
+font-size: 16px;
+width: 661px;
+}
+h2.grupTime{
+font-size: 20px;
+top: 51px;
+}
+
+h3.grupPlase{
+  font-size: 16px;
+  top: 71px;
+}
+h3.gropLocalСountry{
+  font-size: 16px;
+  top: 71px;
+}
+p.gripHover{
+  font-size: 29px;
+}
+.activeGrup .gripHover{
+font-size: 48px;
+line-height: 39px;
+}
+p.grupCountryHover{
+font-size: 20px;
+margin-left: 4px;
+}
+.grupPlacesHover{
+font-size: 19px;
+    top: -17px;
+}
+p.grupTimeHover{
+ font-size: 29px;
+ top: -15px!important;
+}
+.activeGrup h1{
+margin-top: -36% !important;
+}
+.element-item .overlay{
+  height: 98%;
+}
+
+
+.grupClose{
+margin-right: 173px;
+}
+.handGrup img {
+width: 41%;
+    top: 125px;
+}
+.burgerNav{
+  display: none;
+}
+.navigation li.activeGripNav a::after {
+
+    top: -37px;
+
+}
+
+}
+
+   /*Desktop responsive layouts END*/
+
+
+ @media (min-width: 1260px) and (max-width: 1281px)  {
+.isotope .element-item span{
+  top: 64px;
+}
+.p_target {
+   top: 88px;
+}
+.activeGrup h1 {
+    margin-top: -26% !important;
+}
+.grupClose {
+    margin-right: 178px;
+    top: 16px;
+}
+h1.grupName {
+    width: 425px;
+    font-size: 20px;
+}
+p.grupText {
+    font-size: 16px;
+    width: 433px;
+}
+h2.grupTime {
+    top: 54px;
+}
+.grupVideo iframe {
+width: 428px;
+height: 300px;
+}
+#containerGrup {
+    margin: 0 auto 0 91px;
+}
+.handGrup img {
+width: 58%;
+}
+
+}
+
+ @media (width: 1212px) {
+  .handGrup img {
+width: 56%;
+}
+ }
+ @media (max-width: 1280px) {
+  .handGrup img {
+width: 40%;
+}
+.galeryVideoF img {
+width: 306px;
+height: 231px;
+
+}
+.handGalery img{
+  position: fixed;
+top: -33px;
+width: 41%;
+}
+
+a.imgPhpto {
+    font-size: 19px;
+    left: -14px;
+    position: relative;
+}
+ 
+
+a.imgVideo  {
+  color: #5b5b5b;
+    font-size: 19px;
+ }
+
+
+#tabs {
+    position: relative;
+    margin-top: 105px;}
+.GaleryDate {
+    padding-top: 34px;
+    position: relative;
+    padding-left: 12px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.galeryImg img {
+width: 306px;
+height: 231px;
+}
+
+ }
+  @media screen and (width: 1024px)  {
+     i.flaticon-technology{
+  font-size: 30px;
+margin-right: 3px;
+ }
+ i.flaticon-technology-1{
+    font-size: 30px;
+margin-right: 3px;
+ }
+    .galeryVideoF {
+    padding-left: 14px;
+    padding-top: 40px;
+}
+    .galeryImg{
+    padding-left: 14px;
+    padding-top: 40px;
+}
+.element-item{
+width: 100%;
+}
+ #tabs {
+    position: relative;
+    margin-top: 56px;
+
+}
+.container {
+max-width: 336px;
+min-width: 340px;
+
+}
+.navigation{
+  display: none;
+}
+.isotope {
+ 
+    top: 0px;
+}
+.album_sliders_container {
+
+    padding: 0 20px;
+}
+.grupClose {
+    margin-right: 96px;
+    top: 10px;
+
+}
+.grupVideo iframe {
+    width: 497px;
+  
+}
+.grupMedia {
+
+top: 444px;
+}
+.wrap_slider {
+
+    margin-top: 42px;
+}
+.localIconGrup {
+
+    padding-top: 13px;
+}
+.logoZaxidGrup img {
+margin: 18px 13px;
+}
+.handGrup img {
+width: 60%;
+top: 87px;
+}
+.p_target {
+
+top: 84px;
+}
+.p_title {
+
+    top: 14px;
+}
+.sliderGrup {
+    width: 68%;
+}
+.GaleryDate {
+    padding-top: 34px;
+    position: relative;
+    padding-left: 12px;
+    padding-right: 0px;
+    text-align: left;
+}
+.handGalery img {
+    position: fixed;
+    top: -33px;
+    width: 61%;
+}
+}
+@media screen and (width: 1366px){
+  #containerGrup {
+    margin: 0 auto 0 91px;
+}
+.p_target {
+    top: 89px;
+}
+
+.activeGrup h1 {
+    margin-top: -27% !important;
+}
+.album_sliders_container {
+  
+    padding: 0 31px;
+}
+.grupClose {
+margin-right: 107px;
+top: 17px;
+}
+.p_title {
+    top: 17px;
+}
+.logoZaxidGrup img {
+    margin: 25px 21px;
+    width: 46px;
+}
+h2.grupTime {
+    top: 53px;
+}
+.grupVideo iframe {
+    width: 530px;
+    height: 227px;
+}
+
+}
+@media (min-width: 1980px)  {
+  .container {
+    max-width: 1075px;
+    margin: 0 auto 0 144px;
+  }
+  .logoZaxid, .logoZaxidVisitor,.logoZaxidGrup,.logoZaxidGalery{
+    width:144px;
+  }
+  ul.navigation{
+    width: 1035px;
+  }
+  .navigation li a {
+    font-size: 28px;
+  }
+  .navigation li {
+   margin: 0 0 0 12px;
+ padding: 39px 0;
+ }
+
+.contactText{
+  font-size: 25px;
+  line-height: 28px;
+}
+#contactBuy{
+  height: 57px;
+  font-size: 35px;
+}
+.sendForm input:nth-child(3) {
+  width: 87%;
+}
+.contactForm h3{
+  font-size: 21px;
+}
+.menuInfor li a {
+      padding: 0 82px;
+  }
+.sliderGrup{
+width: 50%;
+}
+
+h1.grupName{
+width: 606px;
+font-size: 30px;
+top: 2px;
+line-height: 31px;
+}
+.p_title{
+top: 102px;
+}
+.isotope .element-item span{
+  font-size: 23px;
+}
+.p_target{
+top: 202px;
+}
+.element-item .overlay h1{
+  margin-top: 0%;
+}
+p.grupText{
+font-size: 16px;
+width: 631px;
+}
+h2.grupTime{
+font-size: 20px;
+top: 51px;
+}
+
+h3.grupPlase{
+  font-size: 16px;
+  top: 71px;
+}
+h3.gropLocalСountry{
+  font-size: 16px;
+  top: 71px;
+}
+p.gripHover{
+  font-size: 29px;
+}
+.activeGrup .gripHover{
+font-size: 48px;
+line-height: 39px;
+}
+p.grupCountryHover{
+font-size: 20px;
+margin-left: 4px;
+}
+.grupPlacesHover{
+font-size: 19px;
+    top: -17px;
+}
+p.grupTimeHover{
+ font-size: 29px;
+ top: -15px!important;
+}
+.activeGrup h1{
+margin-top: -36% !important;
+}
+.element-item .overlay{
+  height: 98%;
+}
+
+
+.grupClose{
+margin-right: 173px;
+}
+.handGrup img {
+width: 39%;
+top: 124px;
+}
+.burgerNav{
+  display: none;
+}
+.navigation li.activeGripNav a::after {
+
+    top: -37px;
+
+}
+
+}
